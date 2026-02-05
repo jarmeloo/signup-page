@@ -35,6 +35,6 @@ https://jarmeloo.github.io/signup-page/
 
 ## 📝 Observações
 
-Este projeto foi desenvolvido para aprendizado, experimentação visual e prática de animações em CSS, podendo ser adaptado para menus laterais, seleção de planos ou dashboards. Não realiza autenticação real de usuários. Não possui backend ou persistência de dados. Pode ser utilizado como base visual para projetos maiores
+Este projeto foi desenvolvido para aprendizado, experimentação visual e prática de animações em CSS, podendo ser adaptado para outros projetos. Não realiza autenticação real de usuários. Não possui backend ou persistência de dados. Pode ser utilizado como base visual para projetos maiores
 
 ---
