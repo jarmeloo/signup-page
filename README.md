@@ -21,8 +21,8 @@ Todo o design é construído apenas com CSS, explorando gradientes, sombras, blu
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **HTML5**
-* **CSS3**
+* **HTML**
+* **CSS**
 
 ---
 
